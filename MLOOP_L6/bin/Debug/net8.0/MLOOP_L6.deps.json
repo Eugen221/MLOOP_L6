@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MLOOP_L6/1.0.0": {
+        "runtime": {
+          "MLOOP_L6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLOOP_L6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

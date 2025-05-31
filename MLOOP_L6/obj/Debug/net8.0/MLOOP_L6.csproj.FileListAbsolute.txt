@@ -1,0 +1,14 @@
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\bin\Debug\net8.0\MLOOP_L6.exe
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\bin\Debug\net8.0\MLOOP_L6.deps.json
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\bin\Debug\net8.0\MLOOP_L6.runtimeconfig.json
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\bin\Debug\net8.0\MLOOP_L6.dll
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\bin\Debug\net8.0\MLOOP_L6.pdb
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\MLOOP_L6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\MLOOP_L6.AssemblyInfoInputs.cache
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\MLOOP_L6.AssemblyInfo.cs
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\MLOOP_L6.csproj.CoreCompileInputs.cache
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\MLOOP_L6.dll
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\refint\MLOOP_L6.dll
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\MLOOP_L6.pdb
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\MLOOP_L6.genruntimeconfig.cache
+C:\Users\jekso\source\repos\MLOOP_L6\MLOOP_L6\obj\Debug\net8.0\ref\MLOOP_L6.dll
